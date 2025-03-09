@@ -34,9 +34,9 @@ This project performs Exploratory Data Analysis (EDA) on a Netflix movie dataset
 
 📈 Business Benefits:
 
-✅ Helps Netflix understand audience preferences 🎯
-✅ Guides content strategy & recommendations 🎥
-✅ Identifies trends for better marketing & acquisitions 📈
+✅ Helps Netflix understand audience preferences 
+✅ Guides content strategy & recommendations 
+✅ Identifies trends for better marketing & acquisitions
 
 🔧 How to Run:
 
